@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="right" height="250em" style="border-radius: 15px; margin-left: 40px; margin-top: 11%;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
+    <img align="right" height="250em" style="border-radius: '15px'; margin-left: '40px'; margin-top: '11%';" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
 </div>
 
 ### 👋 About Me
