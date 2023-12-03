@@ -1,7 +1,3 @@
-<div align="center">
-    <img align="right" height="200em" style="border-radius: 15px; margin-left: 50px; margin-top: -20px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
-</div>
-
 ### 👋 About Me
 
 Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about creating exceptional user interfaces. I specialize in React, React-Native, and Next.js, focusing on engineering high-quality frontend solutions to enhance user experiences. Welcome to my GitHub personal profile!
