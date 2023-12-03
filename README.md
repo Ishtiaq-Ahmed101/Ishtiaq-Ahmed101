@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="right" height="250em" style="border-radius: 15px; margin-left: 20px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
+    <img align="right" height="250em" style="border-radius: 15px; margin-left: 30px; margin-top: -20px;" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="GIF">
 </div>
 
 ### 👋 About Me
@@ -9,6 +9,7 @@ Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about crea
 ### 🚀 Expertise
 
 I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects.
+
 
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
