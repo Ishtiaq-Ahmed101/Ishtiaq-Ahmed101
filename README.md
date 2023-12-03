@@ -1,15 +1,10 @@
 
 ### 👋 About Me
-
-Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about creating exceptional user interfaces. I specialize in React, React-Native, and Next.js, focusing on engineering high-quality frontend solutions to enhance user experiences. Welcome to my GitHub personal profile!
-<div align="center">
-
-![hippo](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ly6im8xzh2vwky5sk697zfa1r8i3xg4o1qddtbnq&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-</div>
+"Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about creating exceptional user interfaces. I specialize in React, React-Native, and Next.js, focusing on engineering high-quality frontend solutions to enhance user experiences. Welcome to my GitHub personal profile!
 
 ### 🚀 Expertise
 
-I specialize in creating engaging user interfaces that promise exceptional UI/UX experiences. Whether it's single-page applications or complex web solutions, my expertise ensures the smooth development of outstanding frontend projects.
+I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects.
 
 <h2> Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2>
 
