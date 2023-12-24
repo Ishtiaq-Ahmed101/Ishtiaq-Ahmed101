@@ -1,6 +1,6 @@
 ### 👋 About Me
 
-Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about creating exceptional user interfaces. I specialize in React, React-Native, and Next.js, focusing on engineering high-quality frontend solutions to enhance user experiences. Welcome to my GitHub personal profile!
+Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about creating exceptional user interfaces. I specialize in React, React-Native, and Next.js, focusing on engineering high-quality frontend solutions to enhance user experiences. Welcome to my GitHub personal profile!.
 
 ### 🚀 Expertise
 
