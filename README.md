@@ -6,7 +6,7 @@ Hello, I'm Ishtiaq Ahmed, an experienced Frontend Engineer passionate about crea
 
 ### 🚀 Expertise
 
-I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects.
+I excel in crafting captivating user interfaces that guarantee unparalleled UI/UX experiences. From single-page applications to intricate web solutions, my expertise ensures the seamless realization of outstanding frontend projects..
 
 
 
